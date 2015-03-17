@@ -1,0 +1,37 @@
+    /*Rolando Moreno
+Web Developer
+01.04.2015
+
+developer@rolandomoreno.com
+Revision 0.4
+*/
+.navList a{
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: none;
+    transition: ease 0.25s;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.navList a:hover{
+    color: red;
+}
+
+.navbar{
+    background-color:  #000;
+    text-align: center;
+    max-height: 95px;
+}
+.navList li{
+    display: inline;
+}
+
+#navMargin{
+    margin-top: 35px;
+}
+
+.storeColor a{
+    color:#1F87B2;
+}
