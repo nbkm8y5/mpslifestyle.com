@@ -3,6 +3,7 @@ Using Agile Methodology
 
 ## 1. User Stories - representing new functionality
 	
+
 	Add storefront, possibly from scripting that exists in webhost.
 	Database for comment log.
 	Add contact form.
@@ -23,6 +24,7 @@ Using Agile Methodology
 ## 3. Chores – representing work that must be done, but provide no direct business value
 
     Correct usage of id elements on several items, change them to a single class.
+    Convert files to php and asjust all links accordingly.
 
 ## 4. Epics – representing big user stories. Originally defined as too big to fit in an iteration (the equivalent of a Scrum sprint)
 
