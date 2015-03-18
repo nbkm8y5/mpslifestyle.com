@@ -1,11 +1,11 @@
-    /*Rolando Moreno
+/*Rolando Moreno
 Web Developer
 01.04.2015
 
 developer@rolandomoreno.com
 Revision 0.4
 */
-.navList a{
+.navList a {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     color: #fff;
@@ -15,23 +15,24 @@ Revision 0.4
     padding-right: 25px;
 }
 
-.navList a:hover{
+.navList a:hover {
     color: red;
 }
 
-.navbar{
-    background-color:  #000;
+.navbar {
+    background-color: #000;
     text-align: center;
     max-height: 95px;
 }
-.navList li{
+
+.navList li {
     display: inline;
 }
 
-#navMargin{
+#navMargin {
     margin-top: 35px;
 }
 
-.storeColor a{
-    color:#1F87B2;
+.storeColor a {
+    color: #1F87B2;
 }
