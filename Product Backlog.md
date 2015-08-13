@@ -5,19 +5,12 @@ Using Agile Methodology
 	
 
 	Add storefront, possibly from scripting that exists in webhost.
-	Database for comment log.
-	Add contact form.
-    GALLERY THAT IS CLOSE TO http://www.htfu.com/
-	Need full fledged SEO.
-	Need analytics.
-	Client needs a google account.
-	See about content below:
-	See what changes client wants in index.php
-	See what changes client wants in products.php
-	See what changes client wants in blog.php
-	See what changes client wants in team.php
-	See what changes client wants in contact.php
-	See what changes client wants in store.php
+	Database for comment log and PHP code
+    Tablet and mobile responsive site
+    Upload videos to youtube.
+    Take more pictures at the basketball camp
+    Create database in Go Daddy web host.
+    Is Instagram set up?
 	
 ## 2. Bugs – representing work to address a defect
 

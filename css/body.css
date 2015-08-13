@@ -86,3 +86,11 @@ body {
     font-size: 72px;
     text-align: center;
 }
+.lead{
+    color: #fff;
+}
+
+#contactus{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}

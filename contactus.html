@@ -43,15 +43,11 @@ Revision 0.4
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
-
 <body>
-
-
 <section id="navigationBar">
     <div class="navbar navbar-default navbar-fixed-top">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
-
                 <div id="navMargin" class="pull-left col-md-5 col-xs-12 navList">
                     <ul>
                         <li><a href="index.html">Home</a></li>
@@ -59,48 +55,47 @@ Revision 0.4
                         <li><a href="team.html">Team MPS</a></li>
                     </ul>
                 </div>
-
                 <div class="col-md-2 col-xs-12">
-                    <a id="logo" href="index.html"><img src="images/dropShadowMPSmini.png" alt="MPS LOGO"></a>
+                    <a id="mps_logo" href="index.html"><img src="images/mps_logo_v3.svg" height="90" alt="MPS LOGO"></a>
                 </div>
-
                 <div id="navMargin" class="pull-right col-md-5 col-xs-12 navList">
                     <ul>
-                        <li><a id="menu" href="blog.html">Blog/Videos</a></li>
+                        <li><a id="menu" href="http://blog.mpslifestyle.com">Blog</a></li>
                         <li><a id="menu" href="contactus.html">Contact Us</a></li>
-                        <li class="storeColor"><a id="menu" href="store.html">Store</a></li>
+                        <li class="storeColor"><a id="menu" href="http://blog.mpslifestyle.com/shop/">Store</a></li>
                     </ul>
                 </div>
-
             </div>
         </div>
     </div>
     <!-- End of nav-->
 </section>
-
-<section id="contactus" class="container-fluid text-center"
-         style="padding-bottom: 75px; padding-top: 75px; background-color:#000">
-    <div class="col-md-offset-4 col-md-4">
-        <form action="MAILTO:contact@mpslifestyle.com?subject=Questions or comments mpslifestyle.com" method="post"
-              enctype="text/plain">
-            <div class="form-group">
-                <label class="control-label" for="fullName" style="color:#fff">Name</label>
-                <input type="text" class="form-control" id="fullName" name="fullName" required
-                       placeholder="Enter Full Name">
-            </div>
-            <div class="form-group">
-                <label class="control-label" for="emailAddress" style="color:#fff">Email address</label>
-                <input type="email" class="form-control" id="emailAddress" name="emailAddress" required
-                       placeholder="Enter email">
-            </div>
-            <div class="form-group">
-                <label for="comments" style="color:#fff">Comments or Questions</label>
+<section id="contactus" class="container-fluid text-center">
+    <div class="col-md-6">
+        <h1>WE WANT TO HEAR FROM YOU!</h1>
+        <h2>Contact Us</h2>
+    <form action="MAILTO:info@mpslifestyle.com?subject=Questions or comments mpslifestyle.com" method="post">
+        <div class="form-group">
+            <label class="control-label" for="fullName" style="color:#fff">Name</label>
+            <input type="text" class="form-control" id="fullName" name="fullName" required
+                   placeholder="Enter Full Name">
+        </div>
+        <div class="form-group">
+            <label class="control-label" for="emailAddress" style="color:#fff">Email address</label>
+            <input type="email" class="form-control" id="emailAddress" name="emailAddress" required
+                   placeholder="Enter email">
+        </div>
+        <div class="form-group">
+            <label for="comments" style="color:#fff">Comments or Questions</label>
                 <textarea class="form-control" rows="3" id="comments" name="comments" required
                           placeholder="Comments"></textarea>
-            </div>
-            <button type="submit" class="btn btn-default" value="Send">Submit</button>
-            <button type="Reset" class="btn btn-danger" value="Reset">Reset</button>
-        </form>
+        </div>
+        <button type="submit" class="btn btn-default" value="Send">Submit</button>
+        <button type="Reset" class="btn btn-danger" value="Reset">Reset</button>
+    </form>
+</div>
+    <div class="col-md-6">
+        <h1></h1>
     </div>
 </section>
 
@@ -108,63 +103,44 @@ Revision 0.4
     <div class="container">
         <div class="row">
             <div id="footerTopRow" class="col-xs-12 col-md-4">
-                <h2>SIGN UP!</h2>
+                <!--<h2>SIGN UP!</h2>-->
 
-                <form class="form-inline" role="form">
-                    <div class="form-group">
-                        <div class="input-group">
-                            <label class="sr-only" for="exampleInputEmail2">Email address</label>
+                <!--<form class="form-inline" role="form">-->
+                <!--<div class="form-group">-->
+                <!--<div class="input-group">-->
+                <!--<label class="sr-only" for="exampleInputEmail2">Email address</label>-->
 
-                            <div class="input-group-addon">@</div>
-                            <input type="email" class="form-control" id="exampleInputEmail2" placeholder="Enter email">
-                        </div>
-                    </div>
-                    <button type="submit" class="btn btn-default">Submit</button>
-                </form>
+                <!--<div class="input-group-addon">@</div>-->
+                <!--<input type="email" class="form-control" id="exampleInputEmail2" placeholder="Enter email">-->
+                <!--</div>-->
+                <!--</div>-->
+                <!--<button type="submit" class="btn btn-default">Submit</button>-->
+                <!--</form>-->
             </div>
             <div id="footerTopRow" class="col-xs-12 col-md-4">
-                <h2>Contact MPS</h2>
+                <h2>Mental | Physical | Spiritual</h2>
 
-                <p>123 Main Street, Miami, Florida, 33174</p>
+                <p>Miami, Florida, USA</p>
 
                 <div id="footer-social">
-                    <a href="http://www.facebook.com/MpsLifestyle" target="_blank"><img src="images/fb.png"
+                    <a href="http://www.facebook.com/MpsLifestyle" target="_blank"><img src="images/fb_light_blue.png"
                                                                                         alt="Facebook Logo"></a>
-                    <a href="http://twitter.com/mpslifestyle" target="_blank"><img src="images/twitter.png"
+                    <a href="http://twitter.com/mpslifestyle" target="_blank"><img src="images/twitter_light_blue.png"
                                                                                    alt="Twitter Logo"></a>
-                    <a href="https://www.youtube.com/user/mpslifestyle" target="_blank"><img src="images/plus.png"
-                                                                                             alt="YouTube Logo"></a>
-                    <a href="http://www.instagram.com/mps_lifestyle" target="_blank"><img src="images/instagram.png"
+                    <a href="https://www.youtube.com/channel/UCCN-moWraHd6UygiAb2dF6g" target="_blank"><img src="images/plus_light_blue.png"
+                                                                                                            alt="YouTube Logo"></a>
+                    <a href="http://www.instagram.com/mps_lifestyle" target="_blank"><img src="images/instagram_light_blue.png"
                                                                                           alt="Instagram Logo"></a>
                 </div>
             </div>
             <div id="footerTopRow" class=" col-xs-12 col-md-4">
-                <h2>NEED HELP?</h2>
+                <!--<h2>NEED HELP?</h2>-->
             </div>
         </div>
         <div class="row">
             <div id="footerBottomRow" class="col-md-12 text-center">
-                <p> &copy 2015 MPS Lifestyle Corporation</p>
+                <p> &copy 2015 MPS Lifestyle USA, LLC</p>
             </div>
-            <!--
-              <div id="footerBottomRow" class="col-xs-12 col-md-6">
-                <div class="row">
-                  <div class="col-xs-12 col-md-6 footerList">
-                    <ul>
-                      <li><a href="index.html">Home</a></li>
-                      <li><a href="brand.html">The Brand</a></li>
-                      <li><a href="team.html">Team MPS</a></li>
-                  </ul>
-                  </div>
-                  <div class="col-xs-12 col-md-6 footerList">
-                    <ul>
-                      <li><a href="blog.html">Blog/Videos</a></li>
-                      <li><a href="contactus.html">Contact Us</a></li>
-                      <li class="storeColor"><a id="menu" href="store.html">Store</a></li>
-                  </ul>
-                  </div>
-                </div>
-              </div>-->
         </div>
     </div>
 </div>
@@ -175,19 +151,12 @@ Revision 0.4
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 
 <script>
-    (function (i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] || function () {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-        a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0];
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    ga('create', 'UA-57546949-1', 'auto');
+    ga('create', 'UA-66011763-1', 'auto');
     ga('send', 'pageview');
 
 </script>
