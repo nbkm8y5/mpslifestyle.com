@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89f89d78-fb47-4c4e-af88-b54366351e9d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/MPS final logo-01.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/MPS_SVG.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arnold.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arnoldLift.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arnoldLift.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/arnoldLift.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner_five.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner_four.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner_nine.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner_seven.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner_six.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner_three.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner_two.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/clean.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/clean.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/dropShadowMPS.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/dropShadowMPSmini.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/games.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/games.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/games.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/girls.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/girls.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/jerk.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/jerk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/jerk.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/main_banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mps_logo_ds.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/snatch.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/snatch.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Product Backlog.md" afterPath="$PROJECT_DIR$/Product Backlog.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/body.css" afterPath="$PROJECT_DIR$/css/body.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/brand.html" afterPath="$PROJECT_DIR$/brand.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contactus.html" afterPath="$PROJECT_DIR$/contactus.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/store.html" afterPath="$PROJECT_DIR$/store.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/team.html" afterPath="$PROJECT_DIR$/team.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="89f89d78-fb47-4c4e-af88-b54366351e9d" name="Default" comment="" />
     <ignored path="mpsV2.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
