@@ -4,10 +4,15 @@ Using Agile Methodology
 ## 1. User Stories - representing new functionality
 
 	Programming:
-    	Tablet and mobile responsive site.
+
+    	MPS Logo smaller on all carousel images
+    	BE YOUR OWN HERO TOP DOWN ON CAROUSEL 4 with a different FONT use MPS as a quote
+    	ALL TEAM MEMBERS LIKE JB.
     	What are we going to write in brand.html?????
+    	Tablet and mobile responsive site.
     	Create database in Go Daddy web host.
     	Database PHP code for comment log.
+
 	
     Costly programming:
 	Add storefront, possibly from scripting that exists in webhost.
