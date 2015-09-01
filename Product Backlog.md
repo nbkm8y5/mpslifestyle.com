@@ -5,15 +5,12 @@ Using Agile Methodology
 
 	Programming:
 
-    	MPS Logo smaller on all carousel images
-    	BE YOUR OWN HERO TOP DOWN ON CAROUSEL 4 with a different FONT use MPS as a quote
     	ALL TEAM MEMBERS LIKE JB.
     	What are we going to write in brand.html?????
-    	Tablet and mobile responsive site.
+    	Tablet and mobile responsive site.  WE ABSOLUTELY HAVE TO GO THIS ROUTE
     	Create database in Go Daddy web host.
     	Database PHP code for comment log.
 
-	
     Costly programming:
 	Add storefront, possibly from scripting that exists in webhost.
 	Need a payment processor.
@@ -23,8 +20,6 @@ Using Agile Methodology
     Social Media:
     Upload videos to youtube.
     Is Instagram set up?
-
-    Take more pictures at the basketball camp
 	
 ## 2. Bugs – representing work to address a defect
 
