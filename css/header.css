@@ -1,10 +1,11 @@
 /*Rolando Moreno
 Web Developer
-01.04.2015
+Last modified: 09.01.2015
 
 developer@rolandomoreno.com
 Revision 0.4
 */
+
 .navList a {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
@@ -20,9 +21,15 @@ Revision 0.4
 }
 
 .navbar {
-    background-color: #000;
+    background-image: url("../images/mps_header_version_three.png");
+    background-position: center;
+    background-size: auto;
+    background-color: rgba(0,0,0,0.0);
     text-align: center;
-    max-height: 95px;
+    margin-bottom: 0px;
+    border: 0px;
+    padding-bottom: 80px;
+    background-repeat: no-repeat;
 }
 
 .navList li {

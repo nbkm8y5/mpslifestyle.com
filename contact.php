@@ -63,9 +63,6 @@ Revision 0.4
                         <li><a href="team.html">Team MPS</a></li>
                     </ul>
                 </div>
-                <div class="col-md-2 col-xs-12">
-                    <a id="mps_logo" href="index.html"><img src="images/mps_logo_v3.svg" height="90" alt="MPS LOGO"></a>
-                </div>
                 <div id="navMargin" class="pull-right col-md-5 col-xs-12 navList">
                     <ul>
                         <li><a id="menu" href="http://blog.mpslifestyle.com">Blog</a></li>
@@ -81,8 +78,8 @@ Revision 0.4
 <section id="contactus" class="container-fluid text-center">
     <div class="col-md-6">
         <h1 style="color: red;">WE WANT TO HEAR FROM YOU!</h1>
-        <h2>Contact Us</h2>
-        <h3>Have a question for MPS? Fill out the form below and we will get back shortly.</h3>
+        <h2 style="color: #ffffff">Contact Us</h2>
+        <h3 style="color: #ffffff">Have a question for MPS? Fill out the form below and we will get back shortly.</h3>
     <form action="contact.php" method="post">
         <div class="form-group">
             <label for="comments" style="color:#fff">Message</label>
@@ -90,27 +87,27 @@ Revision 0.4
                           placeholder="Comments"></textarea>
         </div>
         <div class="form-group">
-            <label class="control-label" for="firstName">First Name</label>
+            <label class="control-label" for="firstName" style="color: #ffffff">First Name</label>
             <input type="text" class="form-control" id="firstName" name="FIRSTNAME" required
                    placeholder="Enter First Name">
         </div>
         <div class="form-group">
-            <label class="control-label" for="lastName">Last Name</label>
+            <label class="control-label" for="lastName" style="color: #ffffff">Last Name</label>
             <input type="text" class="form-control" id="lastName" name="LASTNAME" required
                    placeholder="Enter Last Name">
         </div>
         <div class="form-group">
-            <label class="control-label" for="city">City</label>
+            <label class="control-label" for="city" style="color: #ffffff">City</label>
             <input type="text" class="form-control" id="city" name="CITY" required
                    placeholder="Enter City">
         </div>
         <div class="form-group">
-            <label class="control-label" for="state">State</label>
+            <label class="control-label" for="state" style="color: #ffffff">State</label>
             <input type="text" class="form-control" id="state" name="STATE" required
                    placeholder="Enter State">
         </div>
         <div class="form-group">
-            <label class="control-label" for="emailAddress">Email address</label>
+            <label class="control-label" for="emailAddress" style="color: #ffffff">Email address</label>
             <input type="email" class="form-control" id="emailAddress" name="EMAILADDRESS" required
                    placeholder="Enter email">
         </div>

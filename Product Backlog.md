@@ -5,8 +5,11 @@ Using Agile Methodology
 
 	Programming:
 
+		CAROUSEL BACKGROUND IMAGE WITH TRANSPARENT SVG ON FOREGROUND CAROUSEL, SYNCED RECOMMENDED TO DO CALLBACK TO DO
+		UNCHANGE AND A FEW OTHER THINGS.
     	ALL TEAM MEMBERS LIKE JB.
     	What are we going to write in brand.html?????
+    	CONTENT!!!!
     	Tablet and mobile responsive site.  WE ABSOLUTELY HAVE TO GO THIS ROUTE
     	Create database in Go Daddy web host.
     	Database PHP code for comment log.
