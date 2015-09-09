@@ -54,7 +54,7 @@ Revision 0.4
 <body>
 <section id="navigationBar">
     <div class="navbar navbar-default navbar-fixed-top">
-        <div class="container-fluid">
+        <div class="container">
             <div class="row">
                 <div id="navMargin" class="pull-left col-md-5 col-xs-12 navList">
                     <ul>
@@ -65,9 +65,9 @@ Revision 0.4
                 </div>
                 <div id="navMargin" class="pull-right col-md-5 col-xs-12 navList">
                     <ul>
-                        <li><a id="menu" href="http://blog.mpslifestyle.com">Blog</a></li>
+<!--                        <li><a id="menu" href="http://blog.mpslifestyle.com">Blog</a></li>-->
                         <li><a id="menu" href="contact.php">Contact Us</a></li>
-                        <li class="storeColor"><a id="menu" href="http://blog.mpslifestyle.com/shop/">Store</a></li>
+                        <li class="storeColor"><a id="menu" href="store.html">Store</a></li>
                     </ul>
                 </div>
             </div>
@@ -75,7 +75,7 @@ Revision 0.4
     </div>
     <!-- End of nav-->
 </section>
-<section id="contactus" class="container-fluid text-center">
+<section id="contactus" class="container text-center">
     <div class="col-md-6">
         <h1 style="color: red;">WE WANT TO HEAR FROM YOU!</h1>
         <h2 style="color: #ffffff">Contact Us</h2>

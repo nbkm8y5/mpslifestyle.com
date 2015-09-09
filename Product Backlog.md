@@ -5,25 +5,32 @@ Using Agile Methodology
 
 	Programming:
 
+		FIX ICON AT NAVBAR.
+
+		BRAND PAGE - USE THE INFORMATION PROVIDE IN WORD DOCUMENT.
+
+		HOME PAGE CONTENT.
 		CAROUSEL BACKGROUND IMAGE WITH TRANSPARENT SVG ON FOREGROUND CAROUSEL, SYNCED RECOMMENDED TO DO CALLBACK TO DO
-		UNCHANGE AND A FEW OTHER THINGS.
-    	ALL TEAM MEMBERS LIKE JB.
-    	What are we going to write in brand.html?????
-    	CONTENT!!!!
+		UNCHANGE.  DO ALL THIS WITH ANGULAR JS
+
+
+		CONTACT PAGE MAKE SOME CHANGES TO APPEARANCE,  USE MORE OPACITY, LESS BLOCKY.
+		Create database in Go Daddy web host.
+        Database PHP code for comment FORM
+
     	Tablet and mobile responsive site.  WE ABSOLUTELY HAVE TO GO THIS ROUTE
-    	Create database in Go Daddy web host.
-    	Database PHP code for comment log.
 
-    Costly programming:
-	Add storefront, possibly from scripting that exists in webhost.
-	Need a payment processor.
-	Are they going Shopify or Big Commernce
-	Need to complete Google my business.
+		Costly programming:
+		Add storefront, possibly from scripting that exists in webhost.
+		Need a payment processor.
+		Are they going Shopify or Big Commernce
+		Need to complete Google my business.
 
-    Social Media:
-    Upload videos to youtube.
-    Is Instagram set up?
-	
+		Social Media:
+		Upload videos to youtube.
+		INSTAGRAM LIKE.
+		FACEBOOK SHARE.
+
 ## 2. Bugs – representing work to address a defect
 
 ## 3. Chores – representing work that must be done, but provide no direct business value

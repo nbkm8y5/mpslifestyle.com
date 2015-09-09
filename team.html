@@ -35,6 +35,11 @@ Revision 0.4
     <link rel="stylesheet" type="text/css" href="css/header.css">
     <link rel="stylesheet" type="text/css" href="css/body.css">
     <link rel="stylesheet" type="text/css" href="css/footer.css">
+    <style>
+        html {
+            background: url("images/big_background_five_v2.jpg") no-repeat fixed;
+        }
+    </style>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -46,7 +51,7 @@ Revision 0.4
 <body>
 <section>
     <div class="navbar navbar-default navbar-fixed-top">
-        <div class="container-fluid">
+        <div class="container">
             <div class="row">
                 <div id="navMargin" class="pull-left col-md-5 col-xs-12 navList">
                     <ul>
@@ -57,9 +62,9 @@ Revision 0.4
                 </div>
                 <div id="navMargin" class="pull-right col-md-5 col-xs-12 navList">
                     <ul>
-                        <li><a id="menu" href="http://blog.mpslifestyle.com">Blog</a></li>
+                        <!--<li><a id="menu" href="http://blog.mpslifestyle.com">Blog</a></li>-->
                         <li><a id="menu" href="contact.php">Contact Us</a></li>
-                        <li class="storeColor"><a id="menu" href="http://blog.mpslifestyle.com/shop/">Store</a></li>
+                        <li class="storeColor"><a id="menu" href="store.html">Store</a></li>
                     </ul>
                 </div>
             </div>
@@ -69,70 +74,56 @@ Revision 0.4
 </section>
 <section id="team" class="team" style="background-color: rgba(0,0,0,0.0)">
     <div class="container">
-        <div class="row">
-            <div class="col-md-4 col-xs-12">
-                <div class="thumbnail">
-                    <img src="images/jb_bio_optimized_version_two.jpg" alt="Jason Benton">
+        <div class="row featurette">
+            <div class="col-md-7 team_info">
+                <h2 class="featurette-heading strokeme">Jason Benton <span style="color: #1F87B2" class="text-muted">Chief Executive Officer</span>
+                </h2>
 
-                    <div class="caption">
-                        <h3>Jason Benton</h3>
-
-                        <h3>Chief Executive Officer</h3>
-                        <h5>The CEO/Founder of MPS Lifestyle Jason Benton He has over 25 years of sports and fitness
-                            training and is dedicated, personally and professionally, to the world of fitness. Jason is
-                            a former division 1 college basketball player. His love of sports has been passed down from
-                            both sides of his family tree.</h5>
-
-                        <div class="captionButton">
-                            <p><a href="mailto:j.benton@mpslifestyle.com?Subject=MPS"
-                                  class="btn btn-primary" role="button">Contact</a></p>
-                        </div>
-                    </div>
-                </div>
+                <p class="lead">I am thankful for all of those who said NO to me. It’s because of them I’m doing it myself.” – Albert Einstein</p>
+                <p class="lead">Home Town: <span class="text-primary">New Haven, Connecticut</span></p>
             </div>
-            <div class="col-md-4 col-xs-12">
-                <div class="thumbnail">
-                    <img src="images/byron_andrews_bio.jpg" alt="Byron Andrews">
-
-                    <div class="caption">
-                        <h3>Byron Andrews</h3>
-
-                        <h3>President</h3>
-                        <h5>The President of MPS Lifestyle is Byron Andrews. Byron brings 15 years of experience in the
-                            entertainment and fashion industry. Before Moving to Miami in 2004, he modeled
-                            professionally in Boston, Los Angles and New York. He worked with many major fashion and
-                            athletic companies including Macy’s, Nike & Men’s Fitness magazines. </h5>
-
-                        <div class="captionButton">
-                            <p><a href="mailto:b.andrews@mpslifestyle.com?Subject=MPS"
-                                  class="btn btn-primary" role="button">Contact</a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-xs-12">
-                <div class="thumbnail">
-                    <img src="images/roly_bio.jpg" alt="Rolando Moreno">
-
-                    <div class="caption">
-                        <h3>Rolando Moreno</h3>
-
-                        <h3>Chief Web Developer / Software Architect</h3>
-                        <h5>Software development and design.  Experienced in web development, brings his passion for
-                            health and fitness to the MPS family. Favorite Quote: "Crush your enemies. See them driven
-                            before you. And hear the lamentation of their women" - Conan The Barbarian</h5>
-
-                        <div class="captionButton">
-                            <p><a href="mailto:developer@rolandomoreno.com?Subject=MPS%20Web%20Developer%20Inquiry"
-                                  class="btn btn-primary" role="button">Contact</a></p>
-                        </div>
-                    </div>
-                </div>
+            <div class="col-md-5">
+                <img class="featurette-image img-responsive center-block img-circle"
+                     src="images/jb_bio_optimized_version_two.jpg" alt="Jason Benton">
             </div>
         </div>
+        <hr class="featurette-divider">
+        <div class="row featurette">
+            <div class="col-md-7 team_info">
+                <h2 class="featurette-heading strokeme">Byron Andrews <span style="color: #1F87B2"
+                                                                   class="text-muted">President</span></h2>
+
+                <p class="lead">The President of MPS Lifestyle is Byron Andrews. Byron brings 15 years of experience in
+                    the entertainment and fashion industry. Before Moving to Miami in 2004, he modeled
+                    professionally in Boston, Los Angles and New York. He worked with many major fashion and
+                    athletic companies including Macy’s, Nike & Men’s Fitness magazines.</p>
+                <p class="lead">Home Town: <span class="text-primary">New Haven, Connecticut</span></p>
+            </div>
+            <div class="col-md-5">
+                <img class="featurette-image img-responsive center-block img-circle"
+                     src="images/byron_andrews_bio.jpg" alt="Jason Benton">
+            </div>
+        </div>
+        <hr class="featurette-divider">
+        <div class="row featurette">
+            <div class="col-md-7 team_info">
+                <h2 class="featurette-heading strokeme">Rolando Moreno <span style="color: #1F87B2" class="text-muted">Chief Web Developer | Software Architect</span>
+                </h2>
+
+                <p class="lead">Software development and design. Experienced in web development, brings his passion for
+                    health and fitness to the MPS family. Favorite Quote: "Crush your enemies. See them
+                    driven
+                    before you. And hear the lamentation of their women" - Conan The Barbarian</p>
+                <p class="lead">Home Town: <span class="text-primary">Miami, Florida</span></p>
+            </div>
+            <div class="col-md-5">
+                <img class="featurette-image img-responsive center-block img-circle" src="images/roly_bio.jpg"
+                     alt="Jason Benton">
+            </div>
+        </div>
+        <hr class="featurette-divider">
     </div>
 </section>
-
 <div class="footer">
     <div class="container">
         <div class="row">
@@ -161,10 +152,12 @@ Revision 0.4
                                                                                         alt="Facebook Logo"></a>
                     <a href="http://twitter.com/mpslifestyle" target="_blank"><img src="images/twitter_light_blue.png"
                                                                                    alt="Twitter Logo"></a>
-                    <a href="https://www.youtube.com/channel/UCCN-moWraHd6UygiAb2dF6g" target="_blank"><img src="images/plus_light_blue.png"
-                                                                                                            alt="YouTube Logo"></a>
-                    <a href="http://www.instagram.com/mps_lifestyle" target="_blank"><img src="images/instagram_light_blue.png"
-                                                                                          alt="Instagram Logo"></a>
+                    <a href="https://www.youtube.com/channel/UCCN-moWraHd6UygiAb2dF6g" target="_blank"><img
+                            src="images/plus_light_blue.png"
+                            alt="YouTube Logo"></a>
+                    <a href="http://www.instagram.com/mps_lifestyle" target="_blank"><img
+                            src="images/instagram_light_blue.png"
+                            alt="Instagram Logo"></a>
                 </div>
             </div>
             <div id="footerTopRow" class=" col-xs-12 col-md-4">
@@ -185,10 +178,17 @@ Revision 0.4
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 
 <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
     ga('create', 'UA-66011763-1', 'auto');
     ga('send', 'pageview');
