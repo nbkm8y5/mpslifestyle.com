@@ -1,4 +1,4 @@
-# Product Backlog
+	# Product Backlog
 Using Agile Methodology
 
 ## 1. User Stories - representing new functionality
@@ -15,6 +15,7 @@ Using Agile Methodology
 
 
 		CONTACT PAGE MAKE SOME CHANGES TO APPEARANCE,  USE MORE OPACITY, LESS BLOCKY.
+		DO NOT PUT BACKGROUND IMAGE IN CONTACT PAGE OR BRAND PAGE.
 		Create database in Go Daddy web host.
         Database PHP code for comment FORM
 
@@ -30,6 +31,10 @@ Using Agile Methodology
 		Upload videos to youtube.
 		INSTAGRAM LIKE.
 		FACEBOOK SHARE.
+
+		REVIEW ENTIRE WEBSITE IN INTERNET EXPLORER
+		TEAM PAGE MAKE OUTLINE MORE SOLID
+	    CHANGE TO CEO/FOUNDER FOR JB.
 
 ## 2. Bugs – representing work to address a defect
 
