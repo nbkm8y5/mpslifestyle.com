@@ -7,7 +7,7 @@ Revision 0.4
 */
 
 html {
-    margin-top: 190px;
+    /*margin-top: 190px;*/
     background: url("../images/big_background_one_v2.jpg") no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -20,29 +20,17 @@ body {
     background-color: rgba(0,0,0,0.0);
 }
 
+span{
+    color: #2295c4;
+}
+
+.featurette-heading{
+    color: #fff;
+}
+
 .featureText h2, p {
     font-family: 'Oswald', sans-serif;
-}
-
-.team h1 {
-    color: #fff;
-    font-size: 72px;
-    text-align: center;
-}
-
-.team {
-    font-family: 'Oswald', sans-serif;
-    background-color: #000;
-    padding-top: 25px;
-}
-
-.team .thumbnail {
-    min-height: 650px;
-}
-
-.team .captionButton {
-    position: absolute;
-    bottom: 25px;
+    font-weight: 300;
 }
 
 .brand {
@@ -115,4 +103,13 @@ body {
 
 .team_info{
     background-color: rgba(0,0,0,0.2);
+}
+
+.featurette{
+    padding-left: 25px;
+}
+
+.glyphicon{
+    font-size: 400px;
+    color: #fff;
 }

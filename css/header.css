@@ -8,6 +8,7 @@ Revision 0.4
 
 .navList a {
     font-family: 'Oswald', sans-serif;
+    font-weight: 300;
     text-transform: uppercase;
     color: #fff;
     text-decoration: none;
@@ -21,7 +22,7 @@ Revision 0.4
 }
 
 .navbar {
-    background-image: url("../images/mps_header_version_three.png");
+    background-image: url("../images/mps_header_version_four.png");
     background-position: center;
     background-size: auto;
     background-color: rgba(0,0,0,0.0);
@@ -36,7 +37,7 @@ Revision 0.4
     display: inline;
 }
 
-#navMargin {
+.navMargin {
     margin-top: 35px;
 }
 

@@ -1,0 +1,86 @@
+/*Rolando Moreno
+Web Developer
+10.14.2015
+
+developer@rolandomoreno.com
+Revision 1.2
+*/
+
+body {
+    padding-top: 150px;
+    background: #000000;
+}
+
+h1{
+    color: red;
+}
+
+h2, h3{
+    color: #fff;
+}
+
+a{
+    color: #fff;
+}
+
+label{
+    color: #fff;
+}
+
+#byron {
+    opacity: 0.65;
+}
+.featureText h2, p {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+}
+
+.contactus {
+    font-family: 'Oswald', sans-serif;
+    background-color: #000;
+    padding-top: 100px;
+    padding-bottom: 25px;
+}
+
+.contactus h1 {
+    color: #fff;
+    font-size: 72px;
+    text-align: center;
+}
+
+#store {
+    font-family: 'Oswald', sans-serif;
+    background-color: rgba(0,0,0,0.1);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    min-height: 300px;
+    margin-bottom: 50px;
+}
+
+#store h1 {
+    color: #fff;
+    font-size: 72px;
+    text-align: center;
+}
+.lead{
+    color: #fff;
+}
+
+#contactus{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    padding-top: 25px;
+}
+
+.strokeme
+{
+    text-shadow:
+    -0.75px -0.75px 0 #fff,
+    0.75px -0.75px 0 #fff,
+    -0.75px 0.75px 0 #fff,
+    0.75px 0.75px 0 #fff;
+}
+
+.team_info{
+    background-color: rgba(0,0,0,0.2);
+}

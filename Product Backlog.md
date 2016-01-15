@@ -4,25 +4,20 @@ Using Agile Methodology
 ## 1. User Stories - representing new functionality
 
 	Programming:
-
-		FIX ICON AT NAVBAR.
-
-		BRAND PAGE - USE THE INFORMATION PROVIDE IN WORD DOCUMENT.
-
+		
 		HOME PAGE CONTENT.
 		CAROUSEL BACKGROUND IMAGE WITH TRANSPARENT SVG ON FOREGROUND CAROUSEL, SYNCED RECOMMENDED TO DO CALLBACK TO DO
 		UNCHANGE.  DO ALL THIS WITH ANGULAR JS
 
-
-		CONTACT PAGE MAKE SOME CHANGES TO APPEARANCE,  USE MORE OPACITY, LESS BLOCKY.
-		DO NOT PUT BACKGROUND IMAGE IN CONTACT PAGE OR BRAND PAGE.
 		Create database in Go Daddy web host.
         Database PHP code for comment FORM
 
-    	Tablet and mobile responsive site.  WE ABSOLUTELY HAVE TO GO THIS ROUTE
+    	Tablet and mobile responsive site.
+    	REVIEW ENTIRE WEBSITE IN INTERNET EXPLORER
+    	REVIEW ALL ERRORS IN PHP STORM
 
 		Costly programming:
-		Add storefront, possibly from scripting that exists in webhost.
+		Add storefront, possibly from scripting that exists in webhost.  They went the route of www.viralstyle.com
 		Need a payment processor.
 		Are they going Shopify or Big Commernce
 		Need to complete Google my business.
@@ -31,10 +26,6 @@ Using Agile Methodology
 		Upload videos to youtube.
 		INSTAGRAM LIKE.
 		FACEBOOK SHARE.
-
-		REVIEW ENTIRE WEBSITE IN INTERNET EXPLORER
-		TEAM PAGE MAKE OUTLINE MORE SOLID
-	    CHANGE TO CEO/FOUNDER FOR JB.
 
 ## 2. Bugs – representing work to address a defect
 
